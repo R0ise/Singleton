@@ -1,0 +1,28 @@
+D:\С#\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+D:\С#\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+D:\С#\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+D:\С#\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+D:\С#\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+D:\С#\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+D:\С#\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.AssemblyReference.cache
+D:\С#\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+D:\С#\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+D:\С#\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+D:\С#\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+D:\С#\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+D:\С#\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
+F:\Учеба\Visual code C#\Patterns\patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+F:\Учеба\Visual code C#\Patterns\patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+F:\Учеба\Visual code C#\Patterns\patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+F:\Учеба\Visual code C#\Patterns\patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+F:\Учеба\Visual code C#\Patterns\patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+F:\Учеба\Visual code C#\Patterns\patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+F:\Учеба\Visual code C#\Patterns\patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.AssemblyReference.cache
+F:\Учеба\Visual code C#\Patterns\patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\Visual code C#\Patterns\patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+F:\Учеба\Visual code C#\Patterns\patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+F:\Учеба\Visual code C#\Patterns\patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+F:\Учеба\Visual code C#\Patterns\patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+F:\Учеба\Visual code C#\Patterns\patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+F:\Учеба\Visual code C#\Patterns\patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
